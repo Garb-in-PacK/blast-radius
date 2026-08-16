@@ -1,0 +1,39 @@
+{
+  "name": "garb-in-pack",
+  "owner": {
+    "name": "Garb-in-PacK"
+  },
+  "description": "Claude Code plugins by Garb-in-PacK.",
+  "plugins": [
+    {
+      "name": "blast-radius",
+      "displayName": "Blast Radius",
+      "source": {
+        "source": "github",
+        "repo": "Garb-in-PacK/blast-radius"
+      },
+      "description": "Read-only change-impact analysis: map affected files, dependencies, contracts, tests, and risks before editing.",
+      "author": {
+        "name": "Garb-in-PacK",
+        "url": "https://github.com/Garb-in-PacK"
+      },
+      "homepage": "https://github.com/Garb-in-PacK/blast-radius",
+      "repository": "https://github.com/Garb-in-PacK/blast-radius",
+      "license": "MIT",
+      "keywords": [
+        "impact-analysis",
+        "code-analysis",
+        "architecture",
+        "refactoring",
+        "risk-analysis"
+      ],
+      "category": "development",
+      "tags": [
+        "code-review",
+        "planning",
+        "read-only",
+        "software-engineering"
+      ]
+    }
+  ]
+}

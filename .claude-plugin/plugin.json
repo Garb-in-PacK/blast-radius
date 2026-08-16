@@ -1,0 +1,21 @@
+{
+  "name": "blast-radius",
+  "displayName": "Blast Radius",
+  "version": "1.0.0",
+  "description": "Read-only change-impact analysis for Claude Code: map affected files, dependencies, contracts, tests, and risks before editing.",
+  "author": {
+    "name": "Garb-in-PacK",
+    "url": "https://github.com/Garb-in-PacK"
+  },
+  "homepage": "https://github.com/Garb-in-PacK/blast-radius",
+  "repository": "https://github.com/Garb-in-PacK/blast-radius",
+  "license": "MIT",
+  "keywords": [
+    "impact-analysis",
+    "code-analysis",
+    "architecture",
+    "refactoring",
+    "risk-analysis",
+    "claude-code"
+  ]
+}
